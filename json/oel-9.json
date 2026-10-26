@@ -1,0 +1,10 @@
+{
+    "uuid": "9eeb929a-dd89-4b54-ace2-8bf1fc739dee",
+    "reference_label": "oel-9",
+    "name_label": "Oracle Linux 9",
+    "derived_from": "base-linux-uefi.json",
+    "min_memory": "2G",
+    "VCPUs_at_startup": 2,
+    "VCPUs_max": 2,
+    "disks": [ { "size": "10G" } ]
+}

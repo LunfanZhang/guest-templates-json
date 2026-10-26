@@ -1,0 +1,10 @@
+{
+    "uuid": "12d8ab2a-0e8f-4f79-870b-685337d626a2",
+    "reference_label": "oel-10",
+    "name_label": "Oracle Linux 10",
+    "derived_from": "base-linux-uefi.json",
+    "min_memory": "2G",
+    "VCPUs_at_startup": 2,
+    "VCPUs_max": 2,
+    "disks": [ { "size": "10G" } ]
+}
